@@ -2,8 +2,7 @@ opam-version: "1.2"
 maintainer: "coqdev@inria.fr"
 authors: "The Coq development team, INRIA, CNRS, University Paris Sud, University Paris 7, Ecole Polytechnique."
 homepage: "https://coq.inria.fr/"
-bug-reports: "https://github.com/coq/coq/issues"
-dev-repo: "https://github.com/SkySkimmer/coq"
+dev-repo: "https://github.com/annenkov/coq.sprop"
 license: "LGPL-2.1"
 
 available: [ocaml-version >= "4.02.3"]
