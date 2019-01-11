@@ -22,7 +22,6 @@ build: [
     "-docdir" doc
     "-libdir" "%{lib}%/coq"
     "-datadir" "%{share}%/coq"
-    "-camlp5dir" "%{lib}%/camlp5"
     "-coqide" "no"
   ]
   [make "-j%{jobs}%"]
